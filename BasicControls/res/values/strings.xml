@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Basic Controls</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button_text">I\'m a button</string>
+    <string name="male_text">Dude</string>
+    <string name="female_text">Dudette</string>
+    <string name="click_text">CLICKY</string>
+    <string-array name="derby_vixens_array">
+        <item>Addie Mortem</item>
+				<item>Ali Allways</item> 
+				<item>Audrey Floorburn</item> 
+				<item>C3KO</item>
+				<item>Chelsea Chelsea Bang Bang</item> 
+				<item>Cotton Fire</item> 
+				<item>Dawn K Kong</item> 
+				<item>Dr. Reffer</item> 
+				<item>Emma Nockuout</item> 
+				<item>Evil Irene</item> 
+				<item>Frisky Business</item> 
+				<item>Gilda Flattenher</item> 
+				<item>Gluteus Maxine</item> 
+				<item>Ida Stroya</item> 
+				<item>Ivana Rollovya</item> 
+				<item>Lil\' Hitaly</item> 
+				<item>Ludacrush</item> 
+				<item>M.T. Bottles</item> 
+				<item>Mammary Lane</item> 
+				<item>Mother Issues</item> 
+				<item>Nast E Dogbyte</item> 
+				<item>Rexxx Manning</item> 
+				<item>Rhonda Burgundy</item> 
+				<item>Rock of Shove</item> 
+				<item>Rue McSlamahan</item> 
+				<item>Sierra Saw\'d-off</item> 
+				<item>Suzi Slammin</item> 
+				<item>Velma Revolver</item>
+       </string-array>
+
+</resources>
